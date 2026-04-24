@@ -1,0 +1,26 @@
+# Compiled files
+target/
+*.class
+
+# IDE files
+.metadata/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.mvn/
+
+# Log files
+logs/
+*.log
+*.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Eclipse metadata
+.bak_0.log
+.lock
+.lock_info

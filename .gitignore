@@ -1,0 +1,5 @@
+# Secrets / config
+application.properties
+*.env
+.env
+**/src/main/resources/application.properties
